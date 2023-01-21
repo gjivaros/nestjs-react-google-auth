@@ -1,0 +1,18 @@
+{
+  "name": "nestjs-react-google-auth",
+  "version": "1.0.0",
+  "description": "Create a google authentication application",
+  "scripts": {
+    "lint": "rome check ./",
+    "lint:apply": "rome check ./ --apply",
+    "lint:apply-suggested": "rome check ./ --apply-suggested",
+    "format:check": "rome format ./",
+    "format": "rome format ./ --write"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rome": "^11.0.0"
+  }
+}
